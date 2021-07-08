@@ -2,7 +2,7 @@
 
  ## I'm a EC Engineer
 
- - Currently working in Tata Consultancy Services
+ - 🧑🏻‍💻Currently working in Tata Consultancy Services
  - 🥅 2021 Goals: Contribute more to Open Source projects
 
  ### Connect with me:
