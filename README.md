@@ -1,9 +1,12 @@
 # Hi there, I'm Himalaya <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
 
- ## I'm a EC Engineer
+ ## I'm Software Engineer
 
  - 🧑🏻‍💻Currently working in Tata Consultancy Services
- - 🥅 2021 Goals: Contribute more to Open Source projects
+ - Red Hat Certified Professional
+ - Red Hat Certified Engineer
+ - Red Hat Certified Specialist in Containers & Kubernetes
+ - 🥅 2022 Goals: Contribute more to Open Source projects
 
  ### Connect with me:
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](mailto:himalayasahu@hotmail.com) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
